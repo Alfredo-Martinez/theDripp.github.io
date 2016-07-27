@@ -1,0 +1,123 @@
+<style>    
+    
+
+    /********************* COLORS *************************/      
+    
+    /* #B49775 Sand */
+    /* #e2d1bc Lighter Sand */
+    /* #423E3B Wet Earth*/
+    /* #7D899F Ribbon Blue*/
+    /* #552C26 Dark Red */
+    /* #080808 Warm Dark Grey */
+    
+    
+    /********************* NAVBAR *************************/
+    
+    /*This is not working for some reason*/
+    .navbar-inverse {
+        background-color: #423E3B;
+        border-color: #080808;
+        /*border-radius: 0;*/
+    }
+    
+    .navbar-inverse .navbar-toggle {
+        border-color: #B49775 !important;
+    }
+
+    .navbar-inverse .navbar-toggle:hover,
+    .navbar-inverse .navbar-toggle:focus {
+        background-color: #E2D1BC;
+        border-color: #B49775;
+    }
+
+    .fa-bars {color: #B49775;}
+
+    .navbar-inverse .navbar-header {font-family: 'Pattaya', sans-serif;}
+    
+    .navbar-inverse .navbar-nav > li {
+        font-weight: bold;
+        font-family: 'Poiret One', cursive sans-serif;    
+    }    
+    
+    .navbar-inverse .navbar-nav > li > a:hover,
+    .navbar-inverse .navbar-nav > li > a:focus {
+        color: #E2D1BC !important;
+    }
+
+    .navbar-inverse .navbar-nav > .active > a {
+        background: #080808 !important;
+    }
+
+    
+    /********************* BODY ***************************/
+    
+    .col-sm-6 h1 { /* Headline Text*/
+        font-family: 'Pattaya', 'Poiret One', sans-serif;
+        font-size: 100px;
+    }
+    
+    div.container-fluid { /* Headline Container */
+      padding-top: 70px;
+      padding-bottom: 70px;
+      background-color: #7D899F;
+      color: white;
+    }
+    
+    .col-md-4 .btn-group > a:hover,
+    .col-md-4 .btn-group > a:focus {
+        background-color: #B49775;
+        color: white;
+    }
+    
+    body {
+      position: relative;
+      line-height: 1.8;
+      padding-top: 50px; /*To keep first container and navbar from colliding*/
+    }
+    
+    body p, .panel-body, .panel-title, footer strong{
+        font-family: 'Raleway', serif;
+    }
+  
+    body h1, h2, h3 {
+        font-family: 'Poiret One', cursive sans-serif;
+    }
+    
+    h3 {
+        font-weight: thin;
+    }
+    
+    .margin {margin-bottom: 45px;}
+    
+    .fa-circle {color: #7D899F;}
+  	
+  	/*
+  	.fa-gamepad, .fa-cogs, .fa-code {
+  		color: #E2D1BC !important;
+  	}
+  	*/
+
+    .panel-group >.panel-default >.panel-heading {
+        background-color: #552C26;
+        color: #E2D1BC;
+    }
+  
+    /********************* FOOTER *************************/
+    
+    footer.container-fluid {
+        background-color: #7D899F;
+        color: white;
+    }
+
+    footer strong{
+        /*Put small text class here*/
+        class: "text-left";
+        class: "small";      
+    }
+
+    footer .fa-angle-double-up {
+        color: #080808;
+    }
+ 
+
+</style>
