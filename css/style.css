@@ -13,21 +13,8 @@
     
     /********************* NAVBAR *************************/
     
-    /*This is not working for some reason*/
-    .navbar-inverse {
-        background-color: #423E3B;
-        border-color: #080808;
-        /*border-radius: 0;*/
-    }
-    
     .navbar-inverse .navbar-toggle {
         border-color: #B49775 !important;
-    }
-
-    .navbar-inverse .navbar-toggle:hover,
-    .navbar-inverse .navbar-toggle:focus {
-        background-color: #E2D1BC;
-        border-color: #B49775;
     }
 
     .fa-bars {color: #B49775;}
@@ -63,12 +50,6 @@
       color: white;
     }
     
-    .col-md-4 .btn-group > a:hover,
-    .col-md-4 .btn-group > a:focus {
-        background-color: #B49775;
-        color: white;
-    }
-    
     body {
       position: relative;
       line-height: 1.8;
@@ -90,29 +71,18 @@
     .margin {margin-bottom: 45px;}
     
     .fa-circle {color: #7D899F;}
-  	
-  	/*
-  	.fa-gamepad, .fa-cogs, .fa-code {
-  		color: #E2D1BC !important;
-  	}
-  	*/
 
     .panel-group >.panel-default >.panel-heading {
         background-color: #552C26;
         color: #E2D1BC;
     }
+    
   
     /********************* FOOTER *************************/
     
     footer.container-fluid {
         background-color: #7D899F;
         color: white;
-    }
-
-    footer strong{
-        /*Put small text class here*/
-        class: "text-left";
-        class: "small";      
     }
 
     footer .fa-angle-double-up {
