@@ -63,7 +63,7 @@
     <div id="aboutMe" class="container-fluid text-center margin">
         <div class="row">
             <div class="col-sm-6">
-                <img src="images/myFaceCloser.png" class="img-responsive img-circle" style="display:inline" alt="Falcon in profile" width="350" height="350">
+                <img src="images/myFaceCloserColored.png" class="img-responsive img-circle" style="display:inline" alt="Falcon in profile" width="350" height="350">
             </div>
             <div class="col-sm-6">
                 <h1>Alfredo Martinez</h1>            
@@ -90,43 +90,38 @@
     	<!--   JOB GRID   -->
         <h2 id="jobs" class="text-center">What I Can Do</h2>
         <div class="row margin">
-            <div class="col-md-4 panel panel-default">
-                <div class="panel-heading">
-                    <h3><span class="fa-stack">
+            <div class="col-md-4">
+                <h3>
+                    <span class="fa-stack">
                         <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                         <i class="fa fa-gamepad fa-stack-1x fa-inverse" aria-hidden="true"></i>
-                    </span> Game Developer</h3>
-                </div>
-                <div class="panel-body">
-                    <p>I've filled the role of programer, concept artist, pixel artist, animator, and co-story writer. During a project named <em>Experiment 37</em> I taught myself <strong>Blender</strong>, <strong>Unity 3D</strong>, <strong>Gimp</strong>, <strong>Scrum</strong> and leadership (I was the one who scheduled and rounded-up the group). We only had four people working on this thing on our spare time, so we divide the workload pretty evenly.</p>
-                    <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-                </div>
+                    </span> Game Developer
+                </h3>
+                <p>I've filled the role of programer, concept artist, pixel artist, animator, and co-story writer. During a project named <em>Experiment 37</em> I taught myself <strong>Blender</strong>, <strong>Unity 3D</strong>, <strong>Gimp</strong>, <strong>Scrum</strong> and leadership (I was the one who scheduled and rounded-up the group). We only had four people working on this thing on our spare time, so we divide the workload pretty evenly.
+                </p>
             </div>
             <div class="col-md-4 panel panel-default">
-                <div class="panel-heading">
-                    <h3><span class="fa-stack">
+                <h3>
+                    <span class="fa-stack">
                         <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
                         <i class="fa fa-code fa-stack-1x fa-inverse" aria-hidden="true"></i>
-                    </span> Web Developer</h3>
-                </div>
-                <div class="panel-body">
-                    <p>Since I've earned my degree I've never stopped learning. Codecademy and a couple other sites have helped me grasp web development. My goal is to eventually know how to do both front-end and back-end development.</p>
-                    <p>This website is a work-in-progres, made with my skills gained so far.</p>
-                    <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-                </div>
+                    </span> Web Developer
+                </h3>
+                <p>Since I've earned my degree I've never stopped learning. Codecademy and a couple other sites have helped me grasp web development. My goal is to eventually know how to do both front-end and back-end development.
+                </p>
+                <p>This website is a work-in-progres, made with my skills gained so far.</p>
             </div>
             <div class="col-md-4 panel panel-default">
-                <div class="panel-heading">
-                    <h3><span class="fa-stack">
-                        <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
-                        <i class="fa fa-cogs fa-stack-1x fa-inverse" aria-hidden="true"></i>
-                    </span> Software Engineer</h3>
-                </div>  
-                <div class="panel-body">                    
-                    <p>My degree has taught me many skills in which I would love to apply. Some of them are kernel process-state simulator in C++, Finite State machine virtual pet, desing and administration of databases.</p>
-                    <p>Some activities I enjoyed are programming contests, game development club, and I even participated in a student video game project (see Experiment 37 in the Education > Universidad de Guadalajara section).</p>
-                    <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-                </div>
+                    <h3>
+                        <span class="fa-stack">
+                            <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
+                            <i class="fa fa-cogs fa-stack-1x fa-inverse" aria-hidden="true"></i>
+                        </span> Software Engineer
+                    </h3>                    
+                    <p>My degree has taught me many skills in which I would love to apply. Some of them are kernel process-state simulator in C++, Finite State machine virtual pet, desing and administration of databases.
+                    </p>
+                    <p>Some activities I enjoyed are programming contests, game development club, and I even participated in a student video game project (see Experiment 37 in the Education > Universidad de Guadalajara section).
+                    </p>
             </div>
         </div><!-- job grid row -->
 
