@@ -21,7 +21,7 @@
     <!-- Youtube Autoplay Modal Script-->
     <script src="js/youtubeModal.js"></script>
     
-    <title>Freddy | Homepage</title>
+    <title>Alfredo M. | Home</title>
     <link rel="stylesheet" type="text/css" href="css/style.css">
     
     
@@ -44,7 +44,7 @@
                     <span class="sr-only">Toggle Navigation</span>
                     <span><i class="fa fa-bars fa-lg"></i></span>              
                 </button>
-                <a class="navbar-brand" href="#"><i class="fa fa-diamond" aria-hidden="true"></i> Freddy</a>
+                <a class="navbar-brand" href="#"> Alfredo M. </a>
             </div>
             <div id="navbar" class="collapse navbar-collapse navbar-right">
                 <ul class="nav navbar-nav">
@@ -100,7 +100,7 @@
                 <p>I've filled the role of programer, concept artist, pixel artist, animator, and co-story writer. During a project named <em>Experiment 37</em> I taught myself <strong>Blender</strong>, <strong>Unity 3D</strong>, <strong>Gimp</strong>, <strong>Scrum</strong> and leadership (I was the one who scheduled and rounded-up the group). We only had four people working on this thing on our spare time, so we divide the workload pretty evenly.
                 </p>
             </div>
-            <div class="col-md-4 panel panel-default">
+            <div class="col-md-4">
                 <h3>
                     <span class="fa-stack">
                         <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
@@ -111,7 +111,7 @@
                 </p>
                 <p>This website is a work-in-progres, made with my skills gained so far.</p>
             </div>
-            <div class="col-md-4 panel panel-default">
+            <div class="col-md-4">
                     <h3>
                         <span class="fa-stack">
                             <i class="fa fa-circle fa-stack-2x" aria-hidden="true"></i>
