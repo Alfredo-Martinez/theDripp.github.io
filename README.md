@@ -1,7 +1,7 @@
 # Personal-Website
- This is a website about me. I'm mainly writting it to teach myself front-end web developement and later back-end as well. Everybody is welcome to add things or comment on better practices.
+This is a website about me. I'm mainly writing it to teach myself front-end web developement and later back-end as well. Everybody is welcome to add things or comment on better practices.
  
-So far, I've decided to start with Bootstrap and FontAwesome. I might struggle a bit to make Bootstrap work on all platforms but we'll see.
+So far, I've decided to start with the Bootstrap framework and FontAwesome iconography.
 
 TODO:
 -----
