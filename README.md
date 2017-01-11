@@ -10,5 +10,5 @@ TODO:
 - [X] Edit and revise the personal info text.
 - [X] Re-organize, comment and nest style.css
 - [X] Replace falcon images with proper pictures.
-- [ ] Replace high-res pictures with low-res ones
+- [X] Replace high-res pictures with low-res ones
 - [ ] Profit
