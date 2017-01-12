@@ -9,8 +9,8 @@
     /* #7D899F Ribbon Blue*/
     /* #552C26 Dark Red */
     /* #080808 Warm Dark Grey */
-    
-    
+     
+     
     /********************* NAVBAR *************************/
     
     .navbar-inverse .navbar-toggle {
@@ -43,7 +43,7 @@
         font-size: 100px;
     }
     
-    div.container-fluid { /* Headline Container */
+    #aboutMe { /* Headline Container */
       padding-top: 70px;
       padding-bottom: 70px;
       background-color: #7D899F;
@@ -77,17 +77,23 @@
         color: #E2D1BC;
     }
     
+    
+    #backgroundContainer {
+        background-image: url("../images/dusk.png");
+    {
+    
   
     /********************* FOOTER *************************/
     
-    footer.container-fluid {
+    #contactMe {
         background-color: #7D899F;
         color: white;
     }
-
-    footer .fa-angle-double-up {
+    
+    
+    .fa-angle-double-up {
         color: #080808;
     }
- 
+    
 
 </style>
