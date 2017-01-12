@@ -43,11 +43,14 @@
         font-size: 100px;
     }
     
-    #aboutMe { /* Headline Container */
-      padding-top: 70px;
-      padding-bottom: 70px;
+    #aboutMe, #contactMe { /* Headline Container */
       background-color: #7D899F;
       color: white;
+    }
+    
+    #aboutMe {
+      padding-top: 70px;
+      padding-bottom: 70px;
     }
     
     body {
@@ -77,26 +80,21 @@
         color: #E2D1BC;
     }
     
-    #backgroundContainer .panel-default {
-        background-color: rgba(245, 245, 245, 0.85)
-    }  
-    
     #backgroundContainer {
+        padding-top: 45px;
         background-image: url("../images/dusk.png");
-    {
+    }
+    
+    #backgroundContainer .panel-default {
+        background-color: rgba(245, 245, 245, 0.90);
+    }  
     
   
     /********************* FOOTER *************************/
     
-    #contactMe {
-        background-color: #7D899F;
-        color: white;
-    }
-    
-    
     .fa-angle-double-up {
-        color: #080808;
+        color: #e2d1bc;
     }
-    
+
 
 </style>
